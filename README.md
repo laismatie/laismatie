@@ -2,19 +2,13 @@
 
 ## 👩‍💻 Sobre mim  
 
-Já atuei como desenvolvedora full stack, mas hoje minha paixão está no **front-end** e em tudo o que a tecnologia pode transformar! 🚀  
-Minha jornada começou com a formação técnica em Informática e seguiu para uma graduação em **Sistemas para Internet** pelo IFMS. Atualmente, estou cursando **Pós-Graduação em Engenharia de Software** na PUC Minas Virtual.  
+Sou formada em Técnico em Informática e em Sistemas para Internet pelo IFMS e estou cursando Pós-graduação em Engenharia de Software na PUC Minas. Fundadora do Developer Girls, onde lidero a criação de conteúdo e organização de eventos para ampliar oportunidades para todos na tecnologia.
 
-### 🌟 Destaques da minha atuação:  
-- **Fundadora da Developer Girls**: Promovo a inclusão feminina na tecnologia com conteúdos educativos e eventos que conectam mulheres da área.  
-- **Experiência em Front-end**: Desenvolvo interfaces modernas e responsivas com **JavaScript**, **TypeScript**, **React**, **Next.js**, **Vue.js** e **Tailwind CSS**.  
-- **Boas Práticas de Desenvolvimento**: Busco aprimorar meus conhecimentos em **TDD**, **Clean Code** e **SOLID**.  
-- **Eventos e Impacto Social**: Organizei eventos como *"Mulheres que Mudam o Mundo com a Tecnologia"*, fortalecendo a comunidade tech com aprendizado e networking.  
+Sou desenvolvedora Front-end, com experiência em React, Next.js, TypeScript, Vue.js e Tailwind CSS. Tenho experiência no desenvolvimento de interfaces responsivas, integração com APIs REST, e aplicação de boas práticas como TDD e SOLID. 
 
-### 🎯 Objetivo  
-Continuar evoluindo como desenvolvedora **front-end**, explorando novas tecnologias e contribuindo para projetos inovadores que promovam um impacto positivo na tecnologia e na sociedade.  
+Tenho vivência em metodologias ágeis (Scrum, Kanban) e sou entusiasta do compartilhamento de conhecimento com a comunidade, buscando sempre aprender e contribuir para o crescimento do setor. Acredito que a representatividade é fundamental e estou comprometida em inspirar mais mulheres a entrarem e se destacarem na área da tecnologia, criando um ambiente mais inclusivo e colaborativo.
+
 
 📫 **Entre em contato comigo:**  
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/laismatie/) [<img src="https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/developergirls_/)
-
-✨ **Vamos construir algo incrível juntos!**  
+  
